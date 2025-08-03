@@ -59,5 +59,3 @@ Even though this project is console-based, it lays the foundation for more advan
 🙌 Final Thoughts
 
 This was a beginner-level project, but I gained a lot of confidence from it. It’s not just about writing working code — it’s about writing code that makes sense and teaches you why it works. And that’s what JetBrains Academy + Hyperskill are helping me do: learn by building.
-
-Let me know if you’d like to upload it to GitHub — I can help write the description or guide you through version control too.
